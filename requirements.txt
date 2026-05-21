@@ -6,3 +6,4 @@ six==1.17.0
 tzdata==2025.3
 matplotlib==3.10.8
 matplotlib-inline==0.2.1
+seaborn==0.13.2
